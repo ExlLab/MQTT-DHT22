@@ -1,6 +1,6 @@
 /* Created by Exl2Lab, ‎July ‎22, ‎2018.
   1. Schematic:
-    - DHT22 leg 1 - VCC
+    - DHT22 leg 1 - VCC (3.3V)
     - DHT22 leg 2 - GPIO2
     - DHT22 leg 4 - GND
 
